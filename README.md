@@ -1,3 +1,14 @@
+### RunTimeTester
+RunTimeTester is an interactive app designed to compare the performance differences between Node.js and Deno.
+
+🛠 Built with: SvelteKit
+
+### Current Features
+A basic Fibonacci test to measure execution speed.
+Plans to expand with more performance benchmarks and a summary section to analyze results.
+
+🚀 Stay tuned for more updates!
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
