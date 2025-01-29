@@ -4,8 +4,11 @@ RunTimeTester is an interactive app designed to compare the performance differen
 🛠 Built with: SvelteKit
 
 ### Current Features
-A basic Fibonacci test to measure execution speed.
-Plans to expand with more performance benchmarks and a summary section to analyze results.
+
+<ul>
+<li> A basic Fibonacci test to measure execution speed.</li>
+<li> Plans to expand with more performance benchmarks and a summary section to analyze results.</li>
+</ul>
 
 🚀 Stay tuned for more updates!
 
