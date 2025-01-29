@@ -1,0 +1,27 @@
+{
+  "version": "4",
+  "redirects": {
+    "https://deno.land/std/http/server.ts": "https://deno.land/std@0.224.0/http/server.ts"
+  },
+  "remote": {
+    "https://deno.land/std@0.224.0/async/delay.ts": "f90dd685b97c2f142b8069082993e437b1602b8e2561134827eeb7c12b95c499",
+    "https://deno.land/std@0.224.0/http/server.ts": "f9313804bf6467a1704f45f76cb6cd0a3396a3b31c316035e6a4c2035d1ea514"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@sveltejs/adapter-auto@4",
+        "npm:@sveltejs/kit@^2.16.0",
+        "npm:@sveltejs/vite-plugin-svelte@5",
+        "npm:@tailwindcss/typography@~0.5.16",
+        "npm:@types/node@^22.10.10",
+        "npm:autoprefixer@^10.4.20",
+        "npm:svelte-check@4",
+        "npm:svelte@5",
+        "npm:tailwindcss@^3.4.17",
+        "npm:typescript@5",
+        "npm:vite@6"
+      ]
+    }
+  }
+}
