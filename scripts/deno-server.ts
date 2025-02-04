@@ -1,4 +1,4 @@
-// scripts/deno-server.ts
+// run this to get a deno server
 import { serve } from "https://deno.land/std@0.224.0/http/server.ts";
 
 function fib(n: number): number {

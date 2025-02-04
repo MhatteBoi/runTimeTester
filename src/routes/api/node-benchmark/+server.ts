@@ -9,3 +9,4 @@ export async function GET() {
   
     return new Response(`Fibonacci(40) calculated in ${duration.toFixed(2)}ms`);
   }
+
